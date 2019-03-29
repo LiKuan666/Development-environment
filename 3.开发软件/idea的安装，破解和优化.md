@@ -9,7 +9,7 @@
     - [破解](#%E7%A0%B4%E8%A7%A3)
   - [idea的优化](#idea%E7%9A%84%E4%BC%98%E5%8C%96)
     - [还原默认配置](#%E8%BF%98%E5%8E%9F%E9%BB%98%E8%AE%A4%E9%85%8D%E7%BD%AE)
-    - [详解idea的安装目录!das](#%E8%AF%A6%E8%A7%A3idea%E7%9A%84%E5%AE%89%E8%A3%85%E7%9B%AE%E5%BD%95das)
+    - [详解idea的安装目录](#%E8%AF%A6%E8%A7%A3idea%E7%9A%84%E5%AE%89%E8%A3%85%E7%9B%AE%E5%BD%95)
     - [一些基本设置优化](#%E4%B8%80%E4%BA%9B%E5%9F%BA%E6%9C%AC%E8%AE%BE%E7%BD%AE%E4%BC%98%E5%8C%96)
 
 ## idea的安装
@@ -104,7 +104,9 @@
 
 >注：还原默认配置要重新复制激活码激活
 
-### 详解idea的安装目录![das](/img/Snipaste_2019-03-25_17-21-31.png)
+### 详解idea的安装目录
+
+![dis](img/Snipaste_2019-03-25_17-21-31.png)
 
 1. bin
    ![bin](img/Snipaste_2019-03-25_17-23-37.png)
