@@ -16,5 +16,5 @@
 
 ## idea插件推荐
 
-1. Translate(翻译插件，内置强大的谷歌翻译)
+1. Translate(翻译插件，内置强大的谷歌翻译)  
 2. Alibaba Java Coding Guidelines(阿里巴巴Java开发规约)
